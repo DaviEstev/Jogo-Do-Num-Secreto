@@ -1,3 +1,5 @@
+//Mudança adicionada; 
+
 let guardaNumeros = [];
 let quantidadeLista = guardaNumeros.length;
 let quantidadeNumeros = 100;
